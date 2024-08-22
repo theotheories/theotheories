@@ -9,19 +9,18 @@ I am a passionate and versatile data professional with over 5 years of experienc
 - **Data Science, Machine Learning**: Pandas, Numpy, Spacy, Scikit-learn, Matplotlib, Seaborn
 - **Cloud Computing**: AWS, Azure
 - **Business Intelligence**: Power BI, Power Automate, DAX, Excel
-- **DevOps**: Linux, Raspberry Pi, Automation, Data Pipelines, AWS, Azure
+- **DevOps**: Automation, Data Pipelines, MLOps
+- **Hardware**: Building PCs, Repairing Phones, Raspberry Pi tinkering
 
 ### 🏆 Key Achievements:
-- Developed and deployed a machine learning model that reduced customer churn by 15%.
-- Built and maintained cloud-based data pipelines using AWS and Azure.
-- Innovated a data modelling technique, reducing RAM load from 1GB to just 50MB.
-- Led and delivered critical Power BI dashboards for clients like V&A Museum and NHS Trusts.
+- Innovated a data modelling technique, reducing RAM load of a dashboard from 1GB to just 50MB.
+- Led and delivered critical Power BI dashboards, data model optimisation, and writing SQL for clients like V&A Museum, Leeds NHS Trusts, North Lanarkshire Council.
 
 ---
 
 ### 📊 GitHub Stats:
-![Theo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=stars&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Theo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theotheories&show_icons=true&hide=stars&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theotheories&layout=compact&theme=radical)
 
 ---
 
@@ -78,14 +77,14 @@ I am a passionate and versatile data professional with over 5 years of experienc
 ---
 
 ### 💡 Fun Facts:
-- I speak **fluent Spanish**, basic conversational **French**, and a few words of many languages including **Azerbaijani**.
-- Outside of work, I enjoy **acting**, **choir singing**, and tackling extreme sports like **long-distance running and cycling**.
+- I speak **fluent Spanish**, **basic French**, and a few words in **Azerbaijani**.
+- Outside of work, I enjoy **acting** and tackling extreme sports like **long-distance running and cycling**.
 - I'm a baritone singer, **performing in choirs that have toured across the UK**.
 
 ---
 
 ### 📫 Let's Connect:
-- **GitHub**: [theotheories](https://github.com/theotheories)
+- **GitHub**: [GitHub](https://github.com/theotheories)
 - **LinkedIn**: [LinkedIn](https://linkedin.com/in/theo-mccausland)
 - **Portfolio**: [Portfolio](https://dazzling-poincare-62d648.netlify.app/)
 - **CodeWars**: [CodeWars](https://www.codewars.com/users/theotheories)
@@ -107,4 +106,4 @@ I am a passionate and versatile data professional with over 5 years of experienc
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=theotheories.theotheories)
