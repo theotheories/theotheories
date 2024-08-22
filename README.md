@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Theo McCausland
 
-### 🚀 Aspiring Machine Learning Engineer | Data Engineer | Data Analyst
+### 🚀 Aspiring Machine Learning Engineer | Data Engineer | Experienced Cloud Data Analyst | Skilled in Web and App Dev
 
 I am a passionate and versatile data professional with over 5 years of experience in the technology industry, specialising in data-driven solutions, machine learning, and cloud computing. My background includes leading cross-functional teams, developing innovative machine learning models, and streamlining data operations to deliver high-impact results. I'm seeking to drive innovation and make a positive impact in fast-paced, challenging environments.
 
@@ -103,6 +103,23 @@ I am a passionate and versatile data professional with over 5 years of experienc
 - **SavviVille App**: Developed a mobile app to promote local jobs and businesses using React Native and Firebase.
 - **Healthcare, Housing, and Ticketing Dashboards**: Designed Power BI dashboards for public sector to track real-time citizen data, significantly improving operational efficiency.
 - **Automation for tracking Cloud Assets and Teambuilding**: Built automation workflows in Power Automate to streamline internal processes and reduce human error.
+
+---
+
+### 💻 Web App Design Projects:
+
+- **[Amazon Full Stack](https://clone-1801d.web.app/)**:  
+  <img src="./images/amazon.png" alt="Amazon Full Stack Clone" width="200"/>  
+  A fully functional e-commerce webpage in the style of Amazon, using **React.js**, **Stripe** for credit card payment processing, **Firebase Authentication**, **Database**, **Functions**, and **Hosting**. The app includes real-time database management for order history, and is built with **Axios**, **HTML**, **CSS**, and **React Context API**.
+
+- **Tinder Full Stack**:  
+  <img src="./images/tinder.png" alt="Tinder Clone" width="200"/>  
+  A Tinder-style app with **MongoDB** using **Mongoose** for the backend, **Node.js** and **Express.js** for server-side logic, and hosted on **Heroku**. The frontend is built using **React.js** and hosted on **Firebase**.
+
+- **[Spotify API Backend and Attractive Frontend](https://theospotifyclone.web.app/)**:  
+  <img src="./images/spotify.png" alt="Spotify Clone" width="200"/>  
+  Users can display their own Discover Weekly playlist, plus the names of their other playlists, with this Spotify Clone. Built with **React.js**, **React Context API**, **Spotify user authentication**, and **Spotify API**. The design incorporates **Flexbox CSS** and **Material UI** for a slick, responsive UI.
+
 
 ---
 
