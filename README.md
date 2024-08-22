@@ -53,7 +53,7 @@ I am a passionate and versatile data professional with over 5 years of experienc
 **MA Natural Sciences (Major: Neuroscience, Minor: Business) | University of Cambridge**  
 *2015, 2:1*
 
-**Certifications:**
+**Tech Certifications:**
 - CompTIA Security+
 - AWS Cloud Practitioner
 - PL-300 Power BI Associate
