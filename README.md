@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Theo McCausland
 
-### 🚀 Aspiring Machine Learning Engineer | Data Engineer | Developer
+### 🚀 Aspiring Machine Learning Engineer | Data Engineer | Data Analyst
 
-I am a passionate and versatile Data Engineer with over 5 years of experience in the technology industry, specialising in data-driven solutions, machine learning, and cloud computing. My background includes leading cross-functional teams, developing innovative machine learning models, and streamlining data operations to deliver high-impact results. I'm seeking to drive innovation and make a positive impact in fast-paced, challenging environments.
+I am a passionate and versatile data professional with over 5 years of experience in the technology industry, specialising in data-driven solutions, machine learning, and cloud computing. My background includes leading cross-functional teams, developing innovative machine learning models, and streamlining data operations to deliver high-impact results. I'm seeking to drive innovation and make a positive impact in fast-paced, challenging environments.
 
 ### 🔥 Core Competencies:
 - **Programming**: Python, SQL, JavaScript, Java, C++, Bash, PowerShell
-- **Machine Learning**: Pandas, Numpy, Spacy, Scikit-learn, Matplotlib, Seaborn
+- **Data Science, Machine Learning**: Pandas, Numpy, Spacy, Scikit-learn, Matplotlib, Seaborn
 - **Cloud Computing**: AWS, Azure
 - **Business Intelligence**: Power BI, Power Automate, DAX, Excel
 - **DevOps**: Linux, Raspberry Pi, Automation, Data Pipelines, AWS, Azure
@@ -27,8 +27,8 @@ I am a passionate and versatile Data Engineer with over 5 years of experience in
 
 ### 💼 Professional Experience:
 
-#### **Data Engineer | Agilisys**  
-*2023 – Present, London, UK*  
+#### **Analytics Consultant | Agilisys**  
+*2023, London, UK*  
 - Spearheaded the development of data-driven solutions to optimise operations and enhance customer satisfaction.
 - Created cloud-based pipelines on AWS and Azure to monitor and maintain data quality and integrity.
 
@@ -78,17 +78,17 @@ I am a passionate and versatile Data Engineer with over 5 years of experience in
 ---
 
 ### 💡 Fun Facts:
-- I speak **fluent Spanish**, basic nconversational **French**, and a few words of many languages including **Azerbaijani**.
-- Outside of work, I enjoy **acting**, **choir singing**, and tackling extreme sports like long-distance running and cycling.
-- I'm a baritone singer, performing in choirs that have toured across the UK.
+- I speak **fluent Spanish**, basic conversational **French**, and a few words of many languages including **Azerbaijani**.
+- Outside of work, I enjoy **acting**, **choir singing**, and tackling extreme sports like **long-distance running and cycling**.
+- I'm a baritone singer, **performing in choirs that have toured across the UK**.
 
 ---
 
 ### 📫 Let's Connect:
-- **GitHub**: [TheoMcCausland](https://github.com/theotheories)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/theo-mccausland)
-- **Portfolio**: [Your Portfolio Website](https://dazzling-poincare-62d648.netlify.app/)
-- **CodeWars**: [Your CodeWars Profile](https://www.codewars.com/users/theotheories)
+- **GitHub**: [theotheories](https://github.com/theotheories)
+- **LinkedIn**: [LinkedIn](https://linkedin.com/in/theo-mccausland)
+- **Portfolio**: [Portfolio](https://dazzling-poincare-62d648.netlify.app/)
+- **CodeWars**: [CodeWars](https://www.codewars.com/users/theotheories)
 
 ---
 
@@ -102,8 +102,8 @@ I am a passionate and versatile Data Engineer with over 5 years of experience in
 
 ### ⚡ Recent Projects:
 - **SavviVille App**: Developed a mobile app to promote local jobs and businesses using React Native and Firebase.
-- **Healthcare Dashboards**: Designed Power BI dashboards for hospitals to track real-time patient data, significantly improving operational efficiency.
-- **Automation for Cloud Assets**: Built automation workflows in Power Automate to streamline internal processes and reduce human error.
+- **Healthcare, Housing, and Ticketing Dashboards**: Designed Power BI dashboards for public sector to track real-time citizen data, significantly improving operational efficiency.
+- **Automation for tracking Cloud Assets and Teambuilding**: Built automation workflows in Power Automate to streamline internal processes and reduce human error.
 
 ---
 
