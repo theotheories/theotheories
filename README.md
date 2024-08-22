@@ -108,17 +108,12 @@ I am a passionate and versatile data professional with over 5 years of experienc
 
 ### 💻 Web App Design Projects:
 
-- **[Amazon Full Stack](https://clone-1801d.web.app/)**:  
-  <img src="./images/amazon.png" alt="Amazon Full Stack Clone" width="200"/>  
-  A fully functional e-commerce webpage in the style of Amazon, using **React.js**, **Stripe** for credit card payment processing, **Firebase Authentication**, **Database**, **Functions**, and **Hosting**. The app includes real-time database management for order history, and is built with **Axios**, **HTML**, **CSS**, and **React Context API**.
+| Project | Description |
+|---------|-------------|
+| **[Amazon Full Stack Clone](https://clone-1801d.web.app/)** <br> <img src="./images/amazon.png" alt="Amazon Full Stack Clone" width="200"/> | A fully functional e-commerce clone using **React.js**, **Stripe** for credit card payment processing, **Firebase Authentication**, **Database**, **Functions**, and **Hosting**. The app includes real-time database management for order history, and is built with **Axios**, **HTML**, **CSS**, and **React Context API**. |
+| **Tinder Clone** <br> <img src="./images/tinder.png" alt="Tinder Clone" width="200"/> | A Tinder-style app with **MongoDB** using **Mongoose** for the backend, **Node.js** and **Express.js** for server-side logic, and hosted on **Heroku**. The frontend is built using **React.js** and hosted on **Firebase**. |
+| **[Spotify Clone](https://theospotifyclone.web.app/)** <br> <img src="./images/spotify.png" alt="Spotify Clone" width="200"/> | Display your own Discover Weekly playlist with this Spotify Clone. Built with **React.js**, **React Context API**, **Spotify user authentication**, and **Spotify API**. The design incorporates **Flexbox CSS** and **Material UI** for a slick, responsive UI. |
 
-- **Tinder Full Stack**:  
-  <img src="./images/tinder.png" alt="Tinder Clone" width="200"/>  
-  A Tinder-style app with **MongoDB** using **Mongoose** for the backend, **Node.js** and **Express.js** for server-side logic, and hosted on **Heroku**. The frontend is built using **React.js** and hosted on **Firebase**.
-
-- **[Spotify API Backend and Attractive Frontend](https://theospotifyclone.web.app/)**:  
-  <img src="./images/spotify.png" alt="Spotify Clone" width="200"/>  
-  Users can display their own Discover Weekly playlist, plus the names of their other playlists, with this Spotify Clone. Built with **React.js**, **React Context API**, **Spotify user authentication**, and **Spotify API**. The design incorporates **Flexbox CSS** and **Material UI** for a slick, responsive UI.
 
 
 ---
