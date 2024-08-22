@@ -106,4 +106,4 @@ I am a passionate and versatile data professional with over 5 years of experienc
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=theotheories.theotheories)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=theotheories)
