@@ -68,9 +68,8 @@ I completed the **Data Science Skills Bootcamp** with a focus on mastering Pytho
 **Capstone Projects:**
 1. **Finance Calculator**:  
    A Python-based finance calculator that performs various financial computations. The project features clean code with docstrings, comments, and beautiful console output generated using the **Rich** library.
-   - Tools: Rich, Math, OS, Webbrowser
+   - Tools: Rich, math, os, webbrowser
    - [View Code on GitHub](https://github.com/theotheories/DataScienceCourseSolutions/blob/main/capstone_finance_calculators.py)
-   - <img src="./images/finance_calculator.png" alt="Finance Calculator Screenshot" width="300"/>
 
 2. **NLP Project**:  
    A natural language processing project aimed at extracting insights such as customer sentiment from textual data. The project used libraries such as **Spacy** and **TextBlob**.
