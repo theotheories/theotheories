@@ -49,6 +49,48 @@ I completed the **AWS re/Start** Skills Bootcamp, which provided a comprehensive
 - **MLOps Project (In Progress)**: Working on an MLOps project as extra credit with my lecturer, which involves deploying machine learning models using AWS infrastructure.
 
 
+#### **Data Science Skills Bootcamp - CoGrammar**  
+*Delivered by CoGrammar | 2024 | 12 Weeks*
+
+I completed the **Data Science Skills Bootcamp** with a focus on mastering Python programming, machine learning, and data analysis. Throughout the bootcamp, I achieved an average score of **100%** on all submissions, demonstrating excellence in both theoretical understanding and practical implementation. My work included two major capstone projects, showcasing my expertise in data science and natural language processing (NLP). 
+
+**Key Skills and Technologies:**
+- **Programming**: Python, Numpy, Pandas, Seaborn, Spacy, TextBlob, ReportLab, Rich
+- **Data Science**: Data analytics, data exploration, visualisation with Seaborn
+- **Machine Learning**: Supervised machine learning, NLP (Natural Language Processing)
+- **Libraries Used**: Numpy, Pandas, Spacy, Seaborn, ReportLab, TextBlob, Rich, Multiprocessing, and more
+- **Version Control**: Git
+
+**Capstone Projects:**
+1. **Finance Calculator**:  
+   A Python-based finance calculator that performs various financial computations. The project features clean code with docstrings, comments, and beautiful console output generated using the **Rich** library.
+   - Tools: Python, Numpy, Pandas, Seaborn, Rich
+   - [View Code on GitHub](https://github.com/theotheories/finance-calculator)
+
+2. **NLP Project**:  
+   A natural language processing project aimed at extracting insights such as customer sentiment from textual data. The project used libraries such as **Spacy** and **TextBlob**.
+   - Tools: Python, Spacy, TextBlob, ReportLab
+   - [View Code on GitHub](https://github.com/theotheories/nlp-project)
+
+**Achievements:**
+- Scored **100%** across all tasks, projects, and assessments.
+- Wrote high-quality Python code with clear docstrings and comments.
+- Utilised libraries like **ReportLab** to generate PDF reports as part of the projects.
+
+**Portfolio and GitHub:**
+- [Portfolio with Marks and Feedback](https://your-portfolio-link.com)
+- [GitHub Repository for Solutions](https://github.com/theotheories)
+
+**Notable Libraries Used**:
+- **Numpy**, **Pandas**: For data manipulation and analysis
+- **Spacy**, **TextBlob**: For natural language processing
+- **Seaborn**: For data visualisation
+- **ReportLab**: For generating PDF reports
+- **Rich**: For enhancing console output
+- **Multiprocessing**: For improving performance with parallel processing
+
+
+
 ---
 
 ### 💼 Professional Experience:
