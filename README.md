@@ -54,6 +54,10 @@ I completed the **AWS re/Start** Skills Bootcamp, which provided a comprehensive
 
 I completed the **Data Science Skills Bootcamp** with a focus on mastering Python programming, machine learning, and data analysis. Throughout the bootcamp, I achieved an average score of **100%** on all submissions, demonstrating excellence in both theoretical understanding and practical implementation. My work included two major capstone projects, showcasing my expertise in data science and natural language processing (NLP). 
 
+**Portfolio and GitHub:**
+- [Portfolio with Marks and Feedback](https://www.hyperiondev.com/portfolio/TM23120011178/)
+- [GitHub Repo for Solutions](https://github.com/theotheories/DataScienceCourseSolutions)
+
 **Key Skills and Technologies:**
 - **Programming**: Python, Numpy, Pandas, Seaborn, Spacy, TextBlob, ReportLab, Rich
 - **Data Science**: Data analytics, data exploration, visualisation with Seaborn
@@ -68,21 +72,15 @@ I completed the **Data Science Skills Bootcamp** with a focus on mastering Pytho
    - [View Code on GitHub](https://github.com/theotheories/DataScienceCourseSolutions/blob/main/capstone_finance_calculators.py)
    - <img src="./images/finance_calculator.png" alt="Finance Calculator Screenshot" width="300"/>
 
-
 2. **NLP Project**:  
    A natural language processing project aimed at extracting insights such as customer sentiment from textual data. The project used libraries such as **Spacy** and **TextBlob**.
    - Tools: Python, Spacy, TextBlob, ReportLab
    - [View Code on GitHub](https://github.com/theotheories/DataScienceCourseSolutions/blob/main/capstone_NLP_sentiment_analysis.py)
 
-
 **Achievements:**
 - Scored **100%** across all tasks, projects, and assessments.
 - Wrote high-quality Python code with clear docstrings and comments.
 - Gained deeper understanding of **Machine Learning methods**. 
-
-**Portfolio and GitHub:**
-- [Portfolio with Marks and Feedback](https://www.hyperiondev.com/portfolio/TM23120011178/)
-- [GitHub Repo for Solutions](https://github.com/theotheories/DataScienceCourseSolutions)
 
 **Notable Libraries Used**:
 - **Numpy**, **Pandas**: For data manipulation and analysis
@@ -91,8 +89,6 @@ I completed the **Data Science Skills Bootcamp** with a focus on mastering Pytho
 - **ReportLab**: For generating PDF reports
 - **Rich**: For enhancing console output
 - **Multiprocessing**: For improving performance with parallel processing
-
-
 
 ---
 
