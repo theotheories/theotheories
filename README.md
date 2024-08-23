@@ -24,6 +24,33 @@ I am a passionate and versatile data professional with over 5 years of experienc
 
 ---
 
+### 🎓 Bootcamp Experience:
+
+#### **Cloud Engineering - Amazon Web Services re/Start Skills Bootcamp**  
+*Delivered by Skills City | 2024 | 12 Weeks*
+
+I completed the **AWS re/Start** Skills Bootcamp, which provided a comprehensive foundation in cloud computing, networking, and cybersecurity, culminating in hands-on experience with AWS and related technologies. I successfully passed multiple certification exams and took on extra credit work in **MLOps** and **Cybersecurity**.
+
+**Key Skills and Technologies:**
+- **Cloud Computing**: AWS (Amazon Web Services)
+- **Linux**: Foundations in system administration
+- **Networking**: Basic and advanced networking concepts
+- **Cyber Security**: Introduction to security practices and protocols
+- **Python Programming**: Scripting and automation
+- **Databases**: Introduction to database management
+- **AWS Jumpstart and Advanced AWS**: Hands-on labs and projects using AWS services
+
+**Certifications:**
+- AWS re/Start
+- AWS Certified Cloud Practitioner
+- CompTIA Security+
+
+**Notable Project:**
+- **MLOps Project (In Progress)**: Working on an MLOps project as extra credit with my lecturer, which involves deploying machine learning models using AWS infrastructure.
+
+
+---
+
 ### 💼 Professional Experience:
 
 #### **Analytics Consultant | Agilisys**  
