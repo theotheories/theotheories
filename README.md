@@ -62,7 +62,7 @@ I completed the **Data Science Skills Bootcamp** with a focus on mastering Pytho
 - **Programming**: Python, Numpy, Pandas, Seaborn, Spacy, TextBlob, ReportLab, Rich
 - **Data Science**: Data analytics, data exploration, visualisation with Seaborn
 - **Machine Learning**: Supervised machine learning, NLP (Natural Language Processing)
-- **Libraries Used**: Numpy, Pandas, Spacy, Seaborn, ReportLab, TextBlob, Rich, Multiprocessing, and more
+- **Libraries Used**: Numpy, Pandas, Spacy, Seaborn, Matplotlib, ReportLab, TextBlob, Rich, Multiprocessing, and more
 - **Version Control**: Git
 
 **Capstone Projects:**
@@ -84,10 +84,38 @@ I completed the **Data Science Skills Bootcamp** with a focus on mastering Pytho
 **Notable Libraries Used**:
 - **Numpy**, **Pandas**: For data manipulation and analysis
 - **Spacy**, **TextBlob**: For natural language processing
-- **Seaborn**: For data visualisation
+- **Seaborn**, **Matplotlib**: For data visualisation
 - **ReportLab**: For generating PDF reports
 - **Rich**: For enhancing console output
 - **Multiprocessing**: For improving performance with parallel processing
+
+
+### **📊 Data Analyst Bootcamp**  
+*Delivered by Firebrand Training | 2022 | Online | 12 Weeks*
+
+This bootcamp trained me to securely source, format, and present data for analysis, focusing on business scalability and the practical application of data analysis and visualization techniques. I successfully passed all exams on the first attempt, achieving scores between **92% and 100%** across all self-study modules. The course provided hands-on experience in data analysis, Excel, and Microsoft Azure, with practical applications of data management techniques.
+
+**Key Skills and Technologies:**
+- **Data Analysis**: Advanced Excel functions, PivotTables, PowerPivot, data modeling, and reporting
+- **Data Visualisation**: Creating dashboards and geospatial visualizations with Excel, Power BI, and PowerPivot
+- **Database Concepts**: Relational and non-relational data, database design, and data architecture
+- **Data Protection**: GDPR and data protection principles, including legal and compliance considerations
+- **Microsoft Azure**: Azure Data Fundamentals, including relational and non-relational data management
+- **Statistics**: Advanced statistical analysis using Excel and other tools
+
+**Certifications:**
+- Microsoft Azure Fundamentals
+- BCS Data Analysis Concepts (mock exam scores: 90%, 93%)
+- Microsoft Data Analysis and Visualisation with Excel
+
+**Course Objectives and Achievements:**
+- **Data Analysis Fundamentals**: Applied data analysis techniques and statistical analysis using Excel and PowerPivot
+- **Visualisation**: Created visual insights using dashboards in Excel and geospatial visualizations
+- **Database Systems**: Designed and managed database systems, analyzing an organisation's data architecture for scalability and performance
+- **Reports and Insights**: Presented data insights using reports and data transformation tools in Excel
+
+**Additional Skills:**
+- **Employability Skills**: Developed professional and social skills for thriving in a digital world
 
 ---
 
