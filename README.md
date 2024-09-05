@@ -61,8 +61,13 @@ This bootcamp focused on advanced Python programming, machine learning, and data
 **Capstone Projects:**
 1. **Finance Calculator**:  
    Built a finance calculator to automate financial computations using Python.  
-   - Tools: Python, Rich, Pandas  
+   - Tools: Rich, math, Python
    - [GitHub Code](https://github.com/theotheories/DataScienceCourseSolutions/blob/main/capstone_finance_calculators.py)
+
+
+https://github.com/user-attachments/assets/fff6de7d-15a7-492b-bfd2-03b6b709d1e5
+
+
 
 2. **NLP Sentiment Analysis**:  
    Designed a natural language processing project that analysed customer sentiment.  
