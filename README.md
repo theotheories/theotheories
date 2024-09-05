@@ -26,7 +26,7 @@ I am a passionate and versatile data professional with over 5 years of experienc
 
 ### 🎓 Bootcamp Experience:
 
-#### **Cloud Engineering - Amazon Web Services re/Start Skills Bootcamp**  
+### **🌐 Cloud Engineering - Amazon Web Services re/Start Skills Bootcamp**  
 *Delivered by Skills City | 2024 | 12 Weeks*
 
 I completed the **AWS re/Start** Skills Bootcamp, which provided a comprehensive foundation in cloud computing, networking, and cybersecurity, culminating in hands-on experience with AWS and related technologies. I successfully passed multiple certification exams and took on extra credit work in **MLOps** and **Cybersecurity**.
@@ -49,7 +49,7 @@ I completed the **AWS re/Start** Skills Bootcamp, which provided a comprehensive
 - **MLOps Project (In Progress)**: Working on an MLOps project as extra credit with my lecturer, which involves deploying machine learning models using AWS infrastructure.
 
 
-#### **Data Science Skills Bootcamp - CoGrammar**  
+### **📊 Data Science with Python - Skills Bootcamp**  
 *Delivered by CoGrammar | 2024 | 12 Weeks*
 
 I completed the **Data Science Skills Bootcamp** with a focus on mastering Python programming, machine learning, and data analysis. Throughout the bootcamp, I achieved an average score of **100%** on all submissions, demonstrating excellence in both theoretical understanding and practical implementation. My work included two major capstone projects, showcasing my expertise in data science and natural language processing (NLP). 
