@@ -55,7 +55,7 @@ I completed the **AWS re/Start** Skills Bootcamp, which focused on hands-on lear
 This bootcamp focused on advanced Python programming, machine learning, and data analysis. I completed two capstone projects that showcased my ability to work with large datasets, natural language processing (NLP), and financial analysis tools.
 
 **Key Achievements:**
-- Scored **100%** on all assignments and assessments.
+- Scored **100%** on all assignments and assessments. [See my project scores and comments here.](https://www.hyperiondev.com/portfolio/TM23120011178/)
 - Developed **Python** solutions with rich documentation and professional-level code quality.
 
 **Capstone Projects:**
